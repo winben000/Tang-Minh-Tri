@@ -9,7 +9,7 @@ Skills:  Java / C / MATHLAB / Python
 - 😄 Pronouns: He/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/winben000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Minh Tri Tang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tri Minh Tang)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/winben000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winben000)](https://github.com/anuraghazra/github-readme-stats)
 
